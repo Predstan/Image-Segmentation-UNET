@@ -6,4 +6,4 @@ The daaset is available at https://robotcar-dataset.robots.ox.ac.uk/datasets/. T
 
 ## Result
 Model accieved 95% accuracy on Validation and Test DataSet. Examples of model predictions is provided below:
-![Screenshot](model.png)
+![Screenshot](image.png)
